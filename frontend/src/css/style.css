@@ -1,0 +1,71 @@
+
+
+.bg-row-select {
+  background-color: rgb(255, 209, 108);
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.tabelData .ant-table-thead > tr > th {
+  font-size: 18px;
+  padding: 6px;
+  text-align: center;
+}
+
+.tabelData .ant-table-tbody > tr > td {
+  font-size: 16px;
+  padding: 6px;
+}
+
+.tabelData tr:nth-child(1) th:nth-child(1) {
+  background-color: hsl(192, 82%, 57%);
+  color: white;
+}
+.tabelData tr:nth-child(1) th:nth-child(2) {
+  background-color: hsl(192, 82%, 57%);
+  color: white;
+}
+.tabelData tr:nth-child(1) th:nth-child(3) {
+  background-color: hsl(192, 82%, 57%);
+  color: white;
+}
+.tabelData tr:nth-child(1) th:nth-child(4) {
+  background-color: hsl(192, 82%, 57%);
+  color: white;
+}
+.tabelData tr:nth-child(1) th:nth-child(5) {
+  background-color: hsl(192, 82%, 57%);
+  color: white;
+}
+.tabelData tr:nth-child(1) th:nth-child(6) {
+  background-color: hsl(192, 82%, 57%);
+  color: white;
+}
+
+.btnAdd {
+  height: 35px;
+  font-size: 16px;
+  color: white;
+  background-color: #5CB338 !important;
+  margin: 10px;
+}
+
+
+.btnSave {
+  height: 35px;
+  font-size: 16px;
+  color: white;
+  background-color: #3c49ff !important;
+  margin: 5px;
+}
+
+
+.btnReset {
+  height: 35px;
+  font-size: 16px;
+  color: white;
+  background-color: #FEBA17 !important;
+  margin: 5px;
+}

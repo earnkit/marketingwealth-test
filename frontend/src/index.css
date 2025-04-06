@@ -1,0 +1,25 @@
+/* 
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #ffffff;
+  color: #213547;
+} */
+
+
+html,
+body {
+  position: relative !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background-image: url("/bg-all-pages.jpg") !important;
+}
+
+@font-face {
+  font-family: "Sarabun";
+  src: url("/fonts/Sarabun-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
