@@ -1,4 +1,4 @@
-# Order Management Web App
+# Order Management System
 
 A full-stack web application for managing customer orders.  
 Built with **React.js + Vite** on the frontend and **NestJS** on the backend.
