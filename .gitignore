@@ -4,7 +4,11 @@
 **/node_modules/
 
 # Build outputs
-**/dist/
+**/frontend/build/
+**/backend/dist/
 
 # Logs
 **/*.log
+
+# VS Code settings
+.vscode/
