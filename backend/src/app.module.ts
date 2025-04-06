@@ -15,7 +15,7 @@ import { TestModule } from './test/test.module';
     port: 3306,
     username: 'root',
     password: '3164',
-    database: 'db_test',
+    database: 'db_order',
     entities: [Order],
     synchronize: true,
     charset: 'utf8', 
